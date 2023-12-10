@@ -1,0 +1,5 @@
+1. Areia
+2. Água
+3. Calcário
+4. Cimento
+5. Granito
